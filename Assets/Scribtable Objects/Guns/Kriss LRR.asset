@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c129871ef638654ab6e3d168313b3f4, type: 3}
+  m_Name: Kriss LRR
+  m_EditorClassIdentifier: 
+  gunName: Kriss LRR
+  gunPrefab: {fileID: 2084090802908623773, guid: 336216495f59e8a44a595e1d83a35347,
+    type: 3}
+  minimunDamage: 50
+  maximumDamage: 50
+  maximumRange: 200
